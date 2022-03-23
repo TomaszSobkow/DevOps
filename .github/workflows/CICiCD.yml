@@ -29,7 +29,7 @@ DeployDev:
   url: 'http://dev.myapp.com'
  step:
   - name: Deploy
-   run: echo Your code is being deployed to dev.myapp.com!
+    run: echo Your code is being deployed to dev.myapp.com!
 
 # Our deployment to Staging enviroment job
  DeployStaging:
